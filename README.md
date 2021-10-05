@@ -7,7 +7,12 @@ In this workshop, I will be sharing my favorite ways to automate Microsoft Excel
 
 ![Workshop](https://github.com/Sven-Bo/automate-excel-workshop/blob/master/0-Images/meetup.jpeg?raw=true)
 
-👉 WORKSHOP LINK: https://www.meetup.com/de-DE/Le-Wagon-Tokyo-Coding-Station/events/281134340/
+👉 **WORKSHOP LINK:** https://www.meetup.com/de-DE/Le-Wagon-Tokyo-Coding-Station/events/281134340/
+
+## 🚀 About Le Wagon Tokyo
+
+Le Wagon Tokyo (https://www.lewagon.com/tokyo) is a top ranked coding school for startups, creative people and tech entrepreneurs.
+Our Web Development and Data Science bootcamps are designed for individuals who want to change their career, become freelancer, or launch their own venture!
 
 ## Connect with me
 
