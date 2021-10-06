@@ -1,5 +1,7 @@
-import json  # Standard Python Library
-from pathlib import Path  # Standard Python Library
+import json
+from pathlib import Path
+import sys
+
 import requests  # pip install requests
 import xlwings as xw  # pip install xlwings
 
@@ -14,7 +16,12 @@ def main():
     # Get City ID
     URL_CITY = f"https://www.metaweather.com/api/location/search/?query={city_name}"
     response_city = requests.request("GET", URL_CITY)
-    city_title = json.loads(response_city.text)[0]["title"]
+    try:
+        city_title = json.loads(response_city.text)[0]["title"]
+    except IndexError:
+        msgbox_invalid_city = wb.macro("InvalidCity")
+        msgbox_invalid_city(city_name)
+        sys.exit()
     city_id = json.loads(response_city.text)[0]["woeid"]
 
     # Get Weather for City ID
