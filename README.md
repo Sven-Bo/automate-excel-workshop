@@ -6,8 +6,6 @@ There’s a lot of pain points in Excel that make it a tool that’s cumbersome 
 
 In this workshop, I will be sharing my favorite ways to automate Microsoft Excel using Python. In particular, we will be using the open-source tools: Pandas, xlwings & plotly. After this workshop, you will be able to create a custom Python script that allows you to combine excel files & create charts out of them.
 
-![Workshop](https://github.com/Sven-Bo/automate-excel-workshop/blob/master/0-Images/meetup.jpeg?raw=true)
-
 👉 **WORKSHOP LINK:** https://www.meetup.com/de-DE/Le-Wagon-Tokyo-Coding-Station/events/281134340/
 
 ## 🚀 About Le Wagon Tokyo
