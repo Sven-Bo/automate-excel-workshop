@@ -1,5 +1,6 @@
-
 # How to automate Excel using Python - Online Workshop
+
+![Logo](https://content.screencast.com/users/jubbel3/folders/Snagit/media/c42ea34b-4057-4754-96b0-e8e05c866afb/08.18.2021-19.56.png)
 
 There’s a lot of pain points in Excel that make it a tool that’s cumbersome and repetitive for data manipulation. But did you know that you can also use Python to automate repetitive tasks in Excel?
 
